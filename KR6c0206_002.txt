@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:46:44.165237
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:03
 #+TITLE: 仁王般若經疏
 #+PROPERTY: CBETA_ID T33n1707
 #+PROPERTY: ID KR6c0206
@@ -15,7 +15,7 @@
 ¶
 吉藏法師撰¶
 
-3菩薩教化品
+* 3菩薩教化品
 :PROPERTIES:
 :head: 仁王護國般若波羅蜜經菩薩教化品第¶
 三
@@ -1014,7 +1014,7 @@
 至法雲名十地。廣大如虛空名不可思議德¶
 行也。¶
 
-4二諦品
+* 4二諦品
 :PROPERTIES:
 :head: 仁王護國般若波羅蜜經二諦品第四
 :END:

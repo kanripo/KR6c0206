@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:46:44.112803
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:03
 #+TITLE: 仁王般若經疏
 #+PROPERTY: CBETA_ID T33n1707
 #+PROPERTY: ID KR6c0206
@@ -16,7 +16,7 @@ No.1707[cf.No.245]¶
 ¶
 吉藏法師撰¶
 
-1序品
+* 1序品
 :PROPERTIES:
 :head: 佛說仁王護國般若波羅蜜經序品第一
 :END:
@@ -843,7 +843,7 @@ No.1707[cf.No.245]¶
 眾而住者。有神通者在空中停。無神通者在¶
 地也。¶
 
-2觀空品
+* 2觀空品
 :PROPERTIES:
 :head: 仁王護國般若波羅蜜經觀空品第二
 :END:
